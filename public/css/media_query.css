@@ -1,0 +1,103 @@
+/*START MY PROFILE*/
+@media (max-width: 500px) { 
+    .profilePages .profileImg .file {           
+        width: 60%!important;
+        margin-bottom: 2rem;           
+    }
+    .profilePages .textChange{
+        font-size: 22px;
+        font-weight:600;
+        margin-left: 20px;
+    }
+    .profilePages .backToProfile{
+        font-size: 12px;
+    }
+    .profilePages .cr-boundary{
+        width: 100%!important;
+    }
+}
+@media (min-width: 600px) { 
+    .profilePages .cr-boundary{
+        width: 400px!important;
+    }
+}
+/*END MY PROFILE*/
+
+
+
+
+
+
+@media screen and (max-width:7680px){
+
+}
+@media screen and (max-width:4096px){
+
+}
+@media screen and (max-width:3840px){
+
+}
+@media screen and (max-width:2048px){
+
+}
+
+@media screen and (max-width:1950px){
+
+}
+@media screen and (max-width:1600px){
+
+}
+@media screen and (max-width:1440px){
+
+}
+
+@media screen and (max-width:1366px){
+
+}
+
+@media screen and (max-width:1200px){
+
+}
+@media screen and (max-width:1150px){
+
+
+}
+@media screen and (max-width:1100px){
+
+
+}
+@media screen and (max-height:640px){
+
+}
+@media screen and (max-width:1000px){
+
+
+}
+@media screen and (max-width:900px){ 
+
+
+}
+@media screen and (max-width:800px){
+
+}
+@media screen and (max-width:750px){
+
+}
+
+@media screen and (max-width:720px){
+
+}
+@media screen and (max-width:680px){
+
+}
+@media screen and (max-width:580px){
+
+}
+@media screen and (max-width:520px){
+
+}
+
+@media (max-width: 480px)
+{
+
+}

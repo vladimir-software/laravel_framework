@@ -1,0 +1,142 @@
+@media only screen and (min-width: 1000px){               
+    #demo .carousel-caption {
+        bottom: 265px;            
+    }
+    #demo .carousel-caption h3{
+        font-size: 68px;  
+        line-height: 64px;
+    }
+    .secondContainer .welcomeContent{
+        margin-top: -40px;      
+    }
+    .arrows{              
+        bottom: 160px;              
+    }
+}
+
+@media only screen and (min-width: 1400px){
+    .signupbutton{
+        position: relative;
+        left: 230px;
+        bottom: 45px;
+    }
+}
+@media only screen and (max-width: 1400px) and (min-width: 999px)  {
+
+    #demo .carousel-caption {
+        bottom: 120px;            
+    } 
+    .signupbutton{       
+        left: 370px;
+    }
+
+}
+@media only screen and (min-width: 500px) and (max-width: 767px)  {
+    .hideForDesktop{
+        right: 60px!important;
+    }
+    #demo .carousel-caption h3{
+        /*margin-bottom: 2rem;*/
+        font-size: 45px;
+    }
+    #demo .carousel-caption{
+        bottom: 57px!important;
+    }
+    .arrows {
+        left: -5%;
+    }
+}
+@media only screen and (max-width: 1400px) and (min-width: 767px)  {
+    .arrows {
+        bottom: 10px; 
+        left: -5%;
+    } 
+    #demo .carousel-caption h3{
+        font-size: 54px;
+        line-height: 64px;
+    }
+    .signupbutton{
+        position: relative;
+        bottom: 40px;
+        left: 250px;
+    }
+    .arrows .left-arrow, .arrows .right-arrow{
+        padding: 15px!important;
+        left: 4%;
+    }
+    #demo .carousel-caption {
+        bottom: 85px!important; 
+        width: 100%;
+        left: 4%;
+    } 
+}
+@media only screen and  (max-width: 767px)  {
+    .arrows{
+        bottom: 4px;
+    }
+    #demo .carousel-caption p{
+        margin-bottom: 10px;
+    }
+    #demo .carousel-caption h3{
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .hideForDesktop{
+        top: unset!important;       
+    }
+    #demo .carousel-caption p{
+        font-size: 11px;
+        line-height: 5px;
+        margin-top: 5px!important;
+    }
+    .carousel-item img{
+        height: 250px!important;
+    }
+}
+
+@media only screen and (max-width: 1000px){ 
+    .hideForDesktop{
+        position: absolute;
+        right: 20px;
+        top: 3rem;
+    }   
+
+    #demo .carousel-caption {
+        bottom: 50px;
+        width: 100%;
+        left: 4%;
+    } 
+
+    .secondContainer .welcomeContent h2{
+        font-size: 30px!important;
+        line-height: 33px!important;
+        margin-top: 15px;
+        color:#000000;
+        font-weight: 600;
+    }
+    .secondContainer .welcomeContent p{
+        line-height: 25px;
+        font-size: 14px;
+    }
+    .thirdContainer{
+        padding: 3rem;
+    }
+    .thirdContainer .contactContent{
+        padding: 10px;
+    }
+    .thirdContainer .contactContent h2{
+        font-size: 30px!important;
+    }
+    .thirdContainer .contactContent p{
+        font-size: 14px!important;
+    }
+
+    .arrows .left-arrow, .arrows .right-arrow{
+        padding: 5px;
+    }
+    
+    .arrows .left-arrow span, .arrows .right-arrow span{
+        position: relative!important;
+        top: 5px!important;
+    }
+}

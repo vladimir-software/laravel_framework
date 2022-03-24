@@ -1,0 +1,360 @@
+/*NAVBAR START*/
+#main-navbar  #navbarNav ul li .goToLogin, #main-navbar  #navbarNav ul li .goToSignup{   
+    padding: 5px 20px!important;  
+    min-width: 110px;
+    font-size: 14px;
+    text-align: center;
+    border-radius: 5px;
+    height: auto!important;
+    margin-right: 20px;   
+}
+#main-navbar  #navbarNav ul li .goToLogin{
+    border: 1px solid #ff7c00;
+    background: transparent;
+    color: #ff7c00;
+}
+#main-navbar  #navbarNav ul li .goToSignup{
+    background: #ff7c00;
+    color: #fff;
+}
+#main-navbar  #navbarNav ul li a .navbarBars{
+    background: black;
+    padding: 16px;
+    color: #fff;
+    font-size: 20px;
+}
+@media only screen and  (min-width: 767px)  {
+    #main-navbar  {
+        width: 100%;
+        position: fixed;
+        z-index: 110;
+        top: 0;
+        left: 0;
+    }
+    .navbars{
+        position: relative;
+        top: -15px;
+    }
+}
+@media only screen and  (max-width: 767px)  {
+    main{
+        position: relative;
+        top: 3.2rem!important;
+    }
+    #main-navbar{
+        padding-left:2px;
+        padding-bottom: 0px;
+        top: 0;
+        position: fixed;
+        z-index: 9999;
+        width: 100%;
+        background: #fff;
+    }
+    #main-navbar  #navbarNav ul{
+        display: table;
+    }
+    #main-navbar  #navbarNav ul li{
+        cursor: pointer;
+        display: table-cell;
+        vertical-align: middle;
+    }
+    #main-navbar  #navbarNav ul li .goToLogin, #main-navbar  #navbarNav ul li .goToSignup{  
+        margin-right: 10px;
+        padding: 5px 14px!important;
+        font-size: 12px;
+    }
+    #main-navbar #navbarNav ul li a .navbarBars{
+        padding: 15px 12px;
+    }
+}
+/*NAVBAR SCROLL*/
+@media screen and (min-width:767px){
+    .navbar-sticky{
+        /*background: #ffffffc4!important;*/
+        background: #cccaca66!important;
+
+    }
+    .logoDesktopStyle{
+        padding: 5px 0!important;
+        height: 50px!important;
+        width: auto!important;
+    }
+}
+/*NAVBAR SCROLL END*/
+/*NAVBAR END*/
+/*SIDEBAR START*/
+
+/*SIDEBAR END*/
+
+/*TOP OWL CAROUSEL START*/
+#demo .carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+#demo .carousel-indicators li{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: none;
+}
+#demo .carousel-caption {
+    position: absolute;              
+    left: 10%;
+    z-index: 10;                
+    padding-top: 0px!important;
+    padding-bottom: 0px!important;
+    color: #fff;
+    text-align: left;
+}
+#demo .carousel-caption h3{
+    text-transform: capitalize;
+    font-family: 'Karla', sans-serif;
+    font-weight: 700;
+    letter-spacing: -1px;
+}
+#demo .carousel-caption p{
+    text-transform: uppercase;
+    text-shadow: 2px 1px 0 #000;
+    margin-bottom: 0rem;
+    margin-top: 1.5rem;
+}          
+#demo .carousel-caption .signupbutton {
+    padding: 10px 22px;
+    background-color: #ff7c00!important;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 8px;
+    text-shadow: none;
+    letter-spacing: 1px;
+}
+/*TOP OWL CAROUSEL END*/
+
+/*START FREE BUTTON START*/
+.startFreeButton{
+    color:#000000!important;
+    border:2px solid #ff7c00!important;
+    border-radius: 0px!important;
+    font-weight: 600!important;
+    padding: 15px 50px!important;
+    text-transform: uppercase;
+    font-size: 14px!important;
+    letter-spacing: 1px!important;
+}
+.startFreeButton:hover, .startFreeButton:active,.startFreeButton:focus{
+    background: none!important;
+    color:#000000!important;
+    border:2px solid #ff7c00!important;
+    box-shadow: none!important;
+    outline: #ff7c00;
+}
+/*START FREE BUTTON END*/
+
+/*WELCOME PAGE START*/
+.secondContainer .welcomeNetwork{
+    margin-top: -15% !important;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+.secondContainer .welcomeContent{                          
+    padding-left: 20px;  
+    /*padding-right: 20px;*/  
+}
+.secondContainer .welcomeContent p{
+    color:#999999;
+    font-family: "Karla", sans-serif;
+    line-height: 25px;
+    font-weight: 400;
+    color: #999999;
+    letter-spacing: 1px;
+}
+.secondContainer .welcomeContent h2{
+    font-size: 50px;
+    color:#000000;
+    font-weight: 700;
+    font-family: 'Karla', sans-serif;
+}
+/*WELCOME PAGE END*/
+
+/*LET US GROW PAGE START*/
+.thirdContainer{
+    background: #ff7c00;
+    padding: 5rem;
+    margin-top: 5rem
+}
+.thirdContainer .connectionUserIcon i {
+    font-size: 75px;
+    color: #fff;
+}
+.thirdContainer .connectionUserIcon h5 {
+
+    color: #000;
+}
+.thirdContainer .contactContent p{
+    color:#999999;
+    font-family: "Karla", sans-serif;
+    line-height: 25px;
+    font-weight: 400;
+    color: #999999;
+    letter-spacing: 1px;
+}
+/*LET US GROW PAGE END*/
+
+/*ARROWS PAGE END*/
+.arrows{
+    position: absolute;
+    z-index: 1;
+    display: -ms-flexbox;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+    color:#fff;
+}
+.arrows .left-arrow , .arrows .right-arrow   {
+    border: 2px solid #fff;
+    padding: 18px;
+}
+.arrows .right-arrow {
+    margin-left: 10px;
+}
+/*ARROWS PAGE END*/
+
+/*FOR ALL PAGES CSS*/
+.custom-bg-css{
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;   
+    width: 100%;
+    position: relative;
+    margin-top: 5.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/*FOR ALL PAGES CSS END*/
+
+/*PRICING*/
+.pricing .card-price {
+    font-size: 2rem;
+    margin: 0;
+}  
+
+.pricing .card-price{
+    color: #000;
+}
+.pricing .card {
+    border: none;
+    border-radius: 1rem;
+    transition: all 0.2s;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+    width: 100%!important;
+}
+.pricing hr {
+    margin: 1.5rem 0;
+}
+.pricing .card-title {
+    margin: 0.5rem 0;
+    font-size: 0.9rem;
+    letter-spacing: .1rem;
+    font-weight: bold;
+}
+.pricing .card-price {
+    font-size: 3rem;
+    margin: 0;
+}
+.pricing .card-price .period {
+    font-size: 0.8rem;
+}
+.pricing ul li {
+    margin-bottom: 1rem;
+}
+.pricing .text-muted {
+    opacity: 0.7;
+}
+.pricing .btn {
+    font-size: 80%;
+    border-radius: 5rem;
+    letter-spacing: .1rem;
+    font-weight: bold;
+    padding: 1rem;
+    opacity: 0.7;
+    transition: all 0.2s;
+}
+/*.pricing .fa-ul li{
+    color: #333;
+}*/
+/* Hover Effects on Card */
+
+@media (min-width: 992px) {
+    .pricing .card:hover {
+        box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
+    }
+    .pricing .card:hover .btn {
+        opacity: 1;
+    }
+    #demo .carousel-inner img {
+        width: 100%;
+        min-height: 100vh;
+    }
+
+}
+@media (max-width: 992px) {
+    .pricing .col-sm-4{
+        padding: 0 17px 0px;
+    }
+    .pricing .col-sm-4:nth-child(3){
+        padding: 0 17px 50px;
+    }
+}
+#card-element{
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.21)!important;
+    padding: 10px;
+}
+@media (max-width: 767px){
+    .custom-bg-css{
+        height:auto;
+        margin-top:0px;
+        padding: 20px 0px;
+    }
+}
+/*PRICING END*/
+
+
+
+/*FOOTER CONTENT START*/
+.footerContent ul{
+    list-style: none;
+}
+.footerContent ul > li{
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.footerContent ul > li a{
+    color: #000;
+    font-size: 13px;
+    letter-spacing:1px;
+    font-weight: 600;
+}
+.footerContent ul > li a:hover{
+    color:#999999;               
+}
+.footerHeading h2{
+    font-size: 26px;
+    line-height: 30px;
+    font-weight: 700;
+    font-style: normal;
+    text-transform: none;
+    color: #000000;
+}
+.footerText p{
+    margin: 0;
+    color: #393939;                
+    font-size: 15px;
+    line-height: 25px;
+    font-weight: 500;
+    padding-bottom: 1rem
+}
+/*FOOTER CONTENT END*/

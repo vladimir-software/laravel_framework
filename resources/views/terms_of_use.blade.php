@@ -1,0 +1,118 @@
+@extends('layouts.elements.app')
+@section('content')
+
+<div class="container mb-5">
+    <div class="row">
+        <div class="col-12">
+            <div class="text-center my-5">
+                <h3 style="color:rgb(255, 124, 0);font-weight: 600;">ConnectEO Network Terms of Use</h3>
+            </div>
+            <div class="bg-white p-4">
+                <h5>INTRODUCTION</h5>
+                <p>
+                    The ConnectEO Network Site Terms of Use describe when and the conditions under which you are allowed to access or use the Site (defined in Section 5 below). Please read these Site Terms of Use carefully before visiting our Site. Some visitors to our Site simply visit the publicly available portions of our Site or use the Public Site Services (defined in Section 5 below) (“you” or “Site Visitors”). If you do not agree to these Site Terms of Use, you may not visit, use, or access the Site or Site Services as a Site Visitor, User or otherwise and may not click to accept the Terms of Service when prompted on the Site. 
+                </p>
+
+                <h5>LICENSES AND THIRD-PARTY CONTENT</h5>
+                <h6>CONNECTEO NETOWRK’S PROVISION OF THE SITE AND LIMITED SITE LICENSE 2.1</h6>                
+                <p>
+                    Section 2.1 discusses the rights we give to you to allow you to use the Site, as detailed below: As we describe in this Section 2.1, ConnectEO Network	 grants you a limited license to access the Site and Site Services. This license is subject to and conditioned on compliance with the Site Terms of Use and, to the extent applicable, the rest of the Terms of Service. We try to keep our Site and the Site Services safe, secure, and functioning properly, but we cannot guarantee the continuous operation of or access to our Services. In fact, we might even stop providing the Site or Site Services completely or stop providing certain features without notice.
+                </p>
+
+                <h6>2.2 TERMINATION OF THE LIMITED SITE LICENSE</h6>
+                <p>Section 2.2 explains that we can stop allowing you to use the Site, as detailed below: ConnectEO Network may terminate any license it has granted to any Site Visitor or User to access the Site and Site Services by providing notice, and the termination of such license shall be effective immediately upon ConnectEO Network providing such notice.
+
+                <h6>2.3 CONNECTEO NETWORK'S INTELLECTUAL PROPERTY</h6>
+                <p> Section 2.3 explains that even though we let you use the Site, we still retain all our rights, as detailed below: ConnectEO Network and our licensors retain all right, title, and interest in and to all Intellectual Property Rights related in and to the Site and the Site Services. The ConnectEO Network logos and names are trademarks of ConnectEO Network and are registered in certain jurisdictions. All other product names, company names, marks, logos, and symbols on the Site or Site Services may be the trademarks of their respective owners. Nothing in the Terms of Service grants you a right to use any ConnectEO Network Marks.
+                </p>
+                <h6>2.4 YOUR INTELLECTUAL PROPERTY</h6>
+
+                <h4>2.4.1 YOUR OBLIGATIONS AND YOUR INDEMNIFICATION OF CONNECTEO NETWORK </h4>
+                <p>Section 2.4.1 explains that you are solely responsible for your use of the Site and any content you post on the Site, and that if someone makes a claim against ConnectEO Network because of your content that you will pay ConnectEO Network for our fees and expenses, as detailed below: When you post User Content on the Site or through the Site Services or provide ConnectEO Network with User Content, you understand and acknowledge that you are solely responsible for such User Content. Further, you represent and warrant that you have the right, power, and authority to (a) post that User Content without violating the rights of third parties, and (b) grant the licenses specified below. You acknowledge and agree that the poster of User Content, and not ConnectEO Network, is responsible for any User Content including any harms caused to you, another User, or a third party by such User Content. You will indemnify, defend, and hold harmless ConnectEO Network, our Affiliates, and our respective directors, officers, employees, representatives, and agents (each an “Indemnified Party”) from any and all claims, damages, liabilities, costs, losses, and expenses (including, but not limited to, reasonable attorneys’ fees and all related costs and expenses) arising from or relating to any claim, suit, proceeding, demand, or action brought by you or a third party or other User against an Indemnified Party relating to or arising out of any User Content you post.
+                </p>
+
+                <h4>2.4.2 YOUR RIGHTS AND LICENSE TO CONNECTEO NETWORK AND OTHER SITE VISITORS</h4>
+                <p>Section 2.4.2 explains that by posting content on the Site, you give others certain limited rights to that content, as detailed below: You retain all ownership rights in any User Content you post on ConnectEO Network. To the extent permitted by applicable law, you also grant to ConnectEO Network and our successors and Affiliates a royalty-free, sub-licensable, transferable, perpetual, irrevocable, non-exclusive, worldwide license to use, reproduce, modify, publish, list information regarding, edit, translate, distribute, publicly perform, publicly display, and make derivative works of all such User Content and your name, voice, and/or likeness as contained in your User Content, in whole or in part, and in any form, media, or technology, whether now known or hereafter developed, for use in connection with the Site and ConnectEO Network’s, our successors’ and Affiliates’ businesses, including, without limitation, for promoting and redistributing part or all of the Site (and derivative works thereof) in any media formats and through any media channels. You also hereby grant each User and each Site Visitor a non-exclusive license to access your User Content through the Site and to use, reproduce, distribute, and display such User Content to the extent permitted through the normal functionality of the Site and subject to all applicable confidentiality and other provisions of the Terms of Service, our Privacy Policy, and applicable law.
+                </p>               
+
+                <h4>2.4.3 YOUR COMMENTS AND IDEAS</h4>
+                <p>Section 2.4.3 explains when you can and what happens if you send your ideas to ConnectEO Network, as detailed below: You may submit comments or ideas about the Site and Site Services, including without limitation about how to improve the Site or Site Services (collectively, “Ideas”). By submitting any Ideas, you agree that: (a) your disclosure is voluntary, gratuitous, unsolicited, and without restriction and will not place ConnectEO Network under any fiduciary or other obligation, (b) your Ideas do not contain the confidential or proprietary information of third parties, and (c) you grant us a perpetual and royalty-free license to use the Ideas without any additional compensation to you and to disclose the Ideas on a non-confidential basis or otherwise to anyone. You further acknowledge and agree that, by acceptance of your submission, ConnectEO Network does not waive any rights to use similar or related ideas, including those known or developed by ConnectEO Network or obtained from sources other than you.
+                </p>
+
+                <h6> 2.5 THIRD-PARTY INTELLECTUAL PROPERTY</h6>
+                <p>Section 2.5 explains that third parties, including other Users, are responsible for content posted or linked on the Site, as detailed below: Any information or content expressed or made available by a third party or any other Site Visitor or User is that of the respective author(s) or distributor(s) and not of ConnectEO Network. ConnectEO Network neither endorses nor is responsible for the accuracy or reliability of any opinion, advice, information, or statement made on the Site by anyone other than ConnectEO Network’s authorized agents acting in their official capacities. The Site may contain links to third-party websites. The Site may also contain applications that allow you to access third-party websites via the Site. Such third-party websites or applications are owned and operated by the third parties and/or their licensors. The inclusion of any link or application on the Site does not imply that we endorse the linked site or application. You use the links and third-party websites at your own risk and agree that your use of an application or third-party website accessed via the Site is on an “as is” and “as available” basis without any warranty for any purpose.
+                </p>
+
+                <h6>2.6 COMPLAINTS ABOUT COPYRIGHTED CONTENT ON THE SITE</h6>
+                <p>Section 2.6 explains what to do if you think content on the Site infringes your rights, as detailed below: ConnectEO Network is committed to complying with U.S. copyright and related laws and requires all Site Visitors and Users to comply with these laws. Accordingly, you may not use the Site to store any material or content, or disseminate any material or content, in any manner that constitutes an infringement of third party intellectual property rights, including rights granted by U.S. copyright law. If you are the owner of any copyrighted work and believe your rights under U.S. copyright law have been infringed by any material on the Site, you may take advantage of certain provisions of the Digital Millennium Copyright Act (the "DMCA") by complying with ConnectEO Network’s Proprietary Rights Infringement Reporting Procedures.
+                </p>
+
+                <h5>3. PERMITTED SITE USES</h5>
+                <p>Section 3 explains how you are allowed to use the Site, as detailed below: ConnectEO Network offers the Site and Site Services for your business purposes only and not for personal, household, or consumer use. ConnectEO Network makes the Site and Site Services available for Users to connect with one another, enter into business relationships, promote and advertiser business services and receive and provide Business and Freelancer Services. While we try to ensure that any information we post is both timely and accurate, errors may appear from time to time. We do not make any representations or warranties with respect to any information that is posted on the Site by us or anyone else. In no event should any content be relied on or construed as tax or legal advice or otherwise. You should independently verify the accuracy of any content. 
+                </p>
+                <h5>4. PROHIBITED SITE USES </h5>
+                <p>Section 4 explains uses of the Site that are not allowed, as detailed below: You may not use, or encourage, promote, facilitate, instruct or induce others to use, the Site or Site Services for any activities that violate any law, statute, ordinance or regulation; for any other illegal or fraudulent purpose or any purpose that is harmful to others; or to transmit, store, display, distribute or otherwise make available content that is illegal, fraudulent or harmful to others.
+                </p>
+                <h6>4.1 EXAMPLES OF PROHIBITED USES OF THE SITE</h6>
+                <p>The following are examples of uses that are prohibited on the Site or when using the Site Services: Seeking, offering, promoting, or endorsing and services, content, or activities that: are defamatory, illegal, profane, vulgar, threatening, unlawfully discriminatory, illegal, pornographic, obscene, or sexually explicit in nature; would violate the intellectual property rights, such as and including copyrights, of another person, entity, service, product, or website; would violate 
+                </p>
+
+                <ul>
+                    <li> (a) ConnectEO Network’s Terms of Service, </li>
+                    <li> (b) the terms of service of another website or any similar contractual obligations, or </li>
+                    <li> (c) the academic policies of any educational institution; regard the creation, publication, distribution of “fake news”, “hoax news” or similar false content purposefully intended to mislead readers for financial or other gain; regard or promote in any way any escort services, prostitution, or sexual acts; or are harassing toward another person based on the person's inclusion in a protected class as defined by applicable law; Fraudulent or misleading uses or content, including: Fraudulently billing or attempting to fraudulently bill any Client, including by  
+                        <ul class="pl-3">
+                            <li> (i) falsifying or manipulating or attempting to falsify or manipulate the hours, keystrokes, or mouse clicks recorded in the ConnectEO Network App, 
+                            <li>(ii) reporting, recording, or otherwise billing Clients for time that was not actually worked, or 
+                            </li>
+                            <li>(iii) reporting, recording, or otherwise billing hours worked by another person as hours worked by you in a way that is misleading or false; 
+                                Misrepresenting your experience, skills, or information, including by representing another person’s profile, or parts of another person’s profile, as your own; Using a profile photo that misrepresents your identity or represents you as someone else; Impersonating any person or entity, including, but not limited to, an ConnectEO Network representative, forum leader, or falsely stating or otherwise misrepresenting your affiliation with a person or entity; Falsely stating or implying a relationship with another User, including an Agency continuing to use a Business Owner’s profile or information after the Business Owner no longer works with the Agency; Falsely attributing statements to any ConnectEO Network representative, forum leader, guide or host; Falsely stating or implying a relationship with ConnectEO Network or with another company with whom you do not have a relationship; Allowing another person to use your account, which is misleading to other Users; or Falsely stating that one Business Owner will perform the work on a job when another will in fact perform the work, including submitting a proposal on behalf of a Business Owner that is unable, unwilling, or unavailable to do the work; Expressing an unlawful preference in a job post or proposal or otherwise unlawfully discriminating on a protected basis; Posting identifying information concerning another person; Spamming other Users with proposals or invitations or posting the same job multiple times so that more than one version remains active at a given time; Making or demanding bribes or other payments without the intention of providing services in exchange for the payment; Requesting or demanding free services, including requesting Business Owners to submit work as part of the proposal process for very little or no money or posting contests in which Business Owners submit work with no or very little pay, and only the winning submission is paid the full amount; Requesting a fee before allowing a User to submit a proposal; Attempting to or actually manipulating or misusing the feedback system, including by: withholding payment or Work Product or engaging in any other conduct for the purpose of obtaining positive feedback from another User; attempting to coerce another User by threatening to give negative feedback; expressing views unrelated to the work, such as political, religious, or social commentary, in the feedback system; or offering services for the sole purpose of obtaining positive feedback of any kind; Duplicating or sharing accounts; Selling, trading, or giving an account to another person without ConnectEO Network’s consent; Sharing or soliciting contact information, such as email, phone number, or Skype ID, in a profile or job post; Directly or indirectly, advertising or promoting another website, product, or service or soliciting other Users for other websites, products, or services, including advertising on ConnectEO Network to recruit Business Owners and/or Clients to join an Agency or another website or company; Conduct or actions that could jeopardize the integrity of or circumvent the Site, Site Services or ConnectEO Network's proprietary information, including Interfering or attempting to interfere with the proper operation of the Site or Site Services or any activities conducted on the Site; Bypassing any measures we may use to prevent or restrict access to the Site or any subparts of the Site, including, without limitation, features that prevent or restrict use or copying of any content or enforce limitations on use of the Site or the content therein; Attempting to interfere with or compromise the system integrity or security or decipher any transmissions to or from the servers running the Site; Using any robot, spider, scraper, or other automated means to access the Site for any purpose without our express written permission; Attempting to or interfering with or compromising the system integrity or security or deciphering any transmissions to or from the servers running the Site; Collecting or harvesting any personally identifiable information, including Account names, from the Site; Attempting to or imposing an unreasonable or disproportionately large load (as determined in ConnectEO Network’s sole discretion) on the Site’s infrastructure; Introducing any invalid data, virus, worm, or other harmful or malicious software code, agent, hidden procedure, routine, or mechanism through or to the Site that is designed to or known to cause to cease functioning, disrupt, disable, harm, or otherwise impair in any manner, including aesthetic disruptions or distortions, the operation of (or to allow you or any other person to access or damage or corrupt data, storage media, programs, equipment, or communications or otherwise interfere with operations of or on) the Site or any software, firmware, hardware, computer system, or network of ConnectEO Network or any third party; Accessing or attempting to access the Site or Site Services by any means or technology other than the interface provided; or Framing or linking to the Site or Site Services except as permitted in writing by ConnectEO Network Attempting to or actually reverse engineering, modifying, adapting, translating, preparing derivative works from, decompiling, interfering with the operation of, or otherwise attempting to derive source code from any part of the Site or Site Services unless expressly permitted by applicable law or ConnectEO Network; or Accessing or using the Site or Site Services to build a similar service or application, identify or solicit ConnectEO Network Users, or publish any performance or any benchmark test or analysis relating to the Site.
+
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <h6>4.2 ENFORCEMENT</h6>
+
+                <p> We reserve the right, but do not assume the obligation, to investigate any potential violation of this Section 4 or any other potential violation of these Site Terms of Use and to remove, disable access to, or modify any content on the Site. Our failure to act with respect to a breach by you or others does not waive our right to act with respect to subsequent or similar breaches. We do not guarantee we will take action against all breaches of these Terms of Use or the User Agreement. 
+                     </p>
+                <h6>4.3 REPORTING AND CORRECTING VIOLATIONS</h6>
+                <p>If you become aware of any violation of these Site Terms or Use, you must immediately report it to Customer Service. You agree to assist us with any investigation we undertake and to take any remedial steps we require in order to correct a violation of these Site Terms of Use. 
+                    </p>
+                <h5>5. DEFINITIONS </h5>
+                <p>Section 5 gives you some definitions of capitalized terms that appear in the Site Terms of Use but other capitalized terms are defined above or in the User Agreement, which you can tell because the term is put in quotation marks and bold font. Capitalized terms not defined below have the meanings described in the Terms of Service. “Affiliate” means any entity that, directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with ConnectEO Network. “Client” means any authorized User utilizing the Site to seek and/or obtain Business Owner Services from another User. “Business Owner” means any authorized User utilizing the Site to advertise and/or provide Business Owner Services to Clients, including Business Owner Accounts that are Agency Accounts or, if applicable, Agency Members. A Business Owner is a customer of ConnectEO Network with respect to use of the Site and Site services. “Business Owner Services” means any services provided by Business Owners. “Intellectual Property Rights” means all patent rights, copyright rights, mask work rights, moral rights, rights of publicity, trademark, trade dress and service mark rights, goodwill, trade secret rights and other intellectual property rights as may now exist or hereafter come into existence, and all applications therefore and registrations, renewals and extensions thereof, under the laws of any state, country, territory or other jurisdiction. “Public Site Services” means, collectively, all services, applications and products that are accessible by any Site Visitor who has not become an User through the Site, to the extent they are accessible by a Site Visitor who has not become a User. “Site” means, collectively, our website located at www.connecteonetwork.com, all affiliated websites, including mobile websites and ConnectEO Network Mobile Applications, owned and operated by us, our predecessors or successors in interest, or our Affiliates (defined in the User Agreement). “Site Services” means, collectively, all services (except the Business Owner Services defined herein), applications and products that are accessible through the Site, including the Public Site Services, and all ConnectEO Network Mobile Applications. “ConnectEO Network Mobile Applications” means all mobile applications published by ConnectEO Network or our Affiliates for access to or use of the Site or any Site Services. “User Content” means any comments, remarks, data, feedback, content, text, photographs, images, video, music, or other information that you or any Site Visitor or User post to any part of the Site or provide to ConnectEO Network, including such information that is posted as a result of questions. “You” means any person who accesses our Site, including a Site Visitor or User and including any entity or agency on whose behalf any such person accesses or uses our Site.</p>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@endsection
+
+@push('scripts')
+<style>
+    p{
+        font-size: 14px;
+        color: #333;
+    }
+    h6{
+        font-size: 15px;
+        color: #333;
+        font-weight: bold;
+    }
+    h4{
+        font-size: 14px;
+        font-weight: 700;
+    }
+    ul li{
+        font-size: 14px;
+        color: #333;
+    }
+    ul {
+        list-style-type: none;
+        padding-left: 0;
+    }
+</style>
+@endpush
